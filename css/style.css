@@ -57,3 +57,20 @@ body {
 .button-text {
 	color:white;
 }
+.footer-icons {
+  height: 50px;
+  width: 50px;
+  background-color: orange;
+  padding: 10px;
+  margin-left: -3px;
+}
+.footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: black;
+  background-color:orange;
+  font-family: verdana;
+  font-size: 12px;
+}
